@@ -1,18 +1,2 @@
-plugins:
-  - jekyll-seo-tag
-<!-- Jekyll SEO plugin -->
-  <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Home | dzqdudley.github.io</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Home" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Ziqian Ding is a CS Undergrad at Nanjing University" />
-<meta property="og:description" content="Ziqian Ding is a CS Undergrad at Nanjing University" />
-<link rel="canonical" href="https://dzqdudley.github.io/" />
-<meta property="og:url" content="https://dzqdudley.github.io/" />
-<meta property="og:site_name" content="https://dzqdudley.github.io/" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Home" />
-<script type="application/ld+json">
-{"description":"Walter Zhang is a PhD student at the Booth School of Business","@type":"WebSite","headline":"Home","url":"https://dzqdudley.github.io/","name":"dzqdudley.github.io/","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
+permalink: /notes/:year/:month/:day/:title
+markdown: kramdown
