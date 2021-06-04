@@ -2,17 +2,17 @@ plugins:
   - jekyll-seo-tag
 <!-- Jekyll SEO plugin -->
   <!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Home | walterwzhang.github.io</title>
+<title>Home | dzqdudley.github.io</title>
 <meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="Home" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Walter Zhang is a PhD student at the Booth School of Business" />
-<meta property="og:description" content="Walter Zhang is a PhD student at the Booth School of Business" />
-<link rel="canonical" href="https://walterwzhang.github.io/" />
-<meta property="og:url" content="https://walterwzhang.github.io/" />
-<meta property="og:site_name" content="walterwzhang.github.io" />
+<meta name="description" content="Ziqian Ding is a CS Undergrad at Nanjing University" />
+<meta property="og:description" content="Ziqian Ding is a CS Undergrad at Nanjing University" />
+<link rel="canonical" href="https://dzqdudley.github.io/" />
+<meta property="og:url" content="https://dzqdudley.github.io/" />
+<meta property="og:site_name" content="https://dzqdudley.github.io/" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Home" />
 <script type="application/ld+json">
-{"description":"Walter Zhang is a PhD student at the Booth School of Business","@type":"WebSite","headline":"Home","url":"https://walterwzhang.github.io/","name":"walterwzhang.github.io","@context":"https://schema.org"}</script>
+{"description":"Walter Zhang is a PhD student at the Booth School of Business","@type":"WebSite","headline":"Home","url":"https://dzqdudley.github.io/","name":"dzqdudley.github.io/","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
